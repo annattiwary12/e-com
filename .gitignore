@@ -1,0 +1,55 @@
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+.npm/
+.pnp/
+.pnp.js
+
+# React build files
+Client/build/
+Client/dist/
+Client/coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Docker related
+docker-compose.override.yml
+.docker/
+docker-volumes/
+
+# MongoDB data
+data/db/
+
+# IDE and Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Log files
+logs/
+*.log
+
+# Dependency directories
+.pnpm-store/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
