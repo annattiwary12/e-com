@@ -25,7 +25,7 @@ Users can browse, search, filter, and purchase products with ease on a fully res
 
 
 
-# screenshot..
+# Screenshot.
 ![image](https://github.com/user-attachments/assets/ff84d519-fd55-4a75-afbb-aa46b3e1f187)
 
 
